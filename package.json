@@ -1,9 +1,15 @@
 {
-  "name": "notquiteanonymous-nord",
-  "displayName": "NotQuiteAnonymous-Nord",
+  "name": "nullfjord",
+  "displayName": "Nullfjord",
   "description": "my take on a Nord inspired theme mostly have #303030 as BG",
   "version": "0.0.1",
-  "publisher":"NotQuiteAnonymous",
+  "publisher":"Nullfjord",
+  "license": "CC0-1.0",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/SUDOER1337/Nullfjord-vscode-theme"
+}
+,
   "engines": {
     "vscode": "^1.106.1"
   },
@@ -13,10 +19,11 @@
   "contributes": {
     "themes": [
       {
-        "label": "NQA-nord",
+        "label": "Nullfjord",
         "uiTheme": "vs-dark",
-        "path": "./themes/NQA-nord-color-theme.json"
+        "path": "./themes/nullfjord-color-theme.json"
       }
     ]
   }
 }
+
