@@ -21,7 +21,7 @@
       {
         "label": "Gruvfjord",
         "uiTheme": "vs-dark",
-        "path": "./themes/nullfjord-color-theme.json"
+        "path": "./themes/color-theme.json"
       }
     ]
   }
