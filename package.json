@@ -2,16 +2,15 @@
   "name": "gruvfjord",
   "displayName": "Gruvfjord",
   "description": "my take on a Nord inspired theme mostly have #292828 as BG",
-  "version": "0.0.1",
-  "publisher":"Gruvfjord",
+  "version": "0.0.3",
+  "publisher": "Gruvfjord",
   "license": "CC0-1.0",
   "repository": {
-  "type": "git",
-  "url": "https://github.com/SUDOER1337/Gruvfjord-vscode-theme"
-}
-,
+    "type": "git",
+    "url": "https://github.com/SUDOER1337/Gruvfjord-vscode-theme"
+  },
   "engines": {
-    "vscode": "^1.106.1"
+    "vscode": "^1.105.1"
   },
   "categories": [
     "Themes"
